@@ -1,0 +1,15 @@
+{
+  "name": "FoundationSite",
+  "version": "0.1.0",
+  "description": "Homework site built in Foundation 5 using Jade",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Cerro",
+  "license": "MIT"
+}
